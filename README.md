@@ -19,7 +19,7 @@ Uddeshya is a web-based platform designed to streamline operations for NGOs dedi
 - **Database Management:** Utilizing SQLite for managing data related to students, coaching institutes, volunteers, etc.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/Uddeshya.git`
+1. Clone the repository: `git clone https://github.com/Gauravvv24/Uddeshya.git`
 2. Navigate to the project directory: `cd Uddeshya`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
